@@ -117,6 +117,4 @@ Shortest Transformation Sequence Length: 5 (Sequence: "hit" -> "hot" -> "dot" ->
    ```
    cd Binary-tree-and-shortest-transformation-sequence-in-DSA-
    ```
-3. Run any script or test the functions directly:
-   ```python
-   python your_script.py
+3. Run the script or test the functions directly:
