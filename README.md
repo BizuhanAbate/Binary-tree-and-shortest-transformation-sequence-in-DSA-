@@ -110,11 +110,12 @@ Shortest Transformation Sequence Length: 5 (Sequence: "hit" -> "hot" -> "dot" ->
 ### How to Run
 1. Clone this repository:
    ```
-   git clone https://github.com/your-repo-name/binary-tree-implementations.git
+   git clone https://github.com/BizuhanAbate/Binary-tree-and-shortest-transformation-sequence-in-DSA-.git
+
    ```
 2. Navigate to the project directory:
    ```
-   cd binary-tree-implementations
+   cd Binary-tree-and-shortest-transformation-sequence-in-DSA-
    ```
 3. Run any script or test the functions directly:
    ```python
